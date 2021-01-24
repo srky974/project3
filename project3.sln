@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project3", "project3\project3.csproj", "{293D7C2F-F2C0-4525-8D6F-7A33A0D2D4D0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupSinema", "SetupSinema\SetupSinema.vdproj", "{1A030E7E-C200-4E6E-9E7A-796A7E590B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293D7C2F-F2C0-4525-8D6F-7A33A0D2D4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293D7C2F-F2C0-4525-8D6F-7A33A0D2D4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293D7C2F-F2C0-4525-8D6F-7A33A0D2D4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293D7C2F-F2C0-4525-8D6F-7A33A0D2D4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A030E7E-C200-4E6E-9E7A-796A7E590B45}.Debug|Any CPU.ActiveCfg = Debug
+		{1A030E7E-C200-4E6E-9E7A-796A7E590B45}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB09567B-4EF3-40C1-87BB-F706B3FC2FA0}
+	EndGlobalSection
+EndGlobal
